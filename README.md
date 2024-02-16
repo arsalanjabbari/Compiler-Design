@@ -42,6 +42,8 @@ In this project, we intend to design a compiler that reads arithmetic expression
   It should be noted that in order to execute this phase, you must execute the command "bison -d -y phase_two_three.y" in the project directory, the output of which will be "y.tab.c" and "y.tab.h".
   
   Then by running "gcc y.tab.c lex.yy.c" the executable file is generated and finally by running "a.exe" you are allowed to enter the input you want.
+
+  
 <img width="568" alt="Screenshot 2024-02-16 at 8 35 06 PM" src="https://github.com/arsalanjabbari/Compiler-Design/assets/93816830/4b758e4b-8022-4293-8447-18ec20c5fa9b">
 
   
